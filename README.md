@@ -1,2 +1,2 @@
-# Aimware-scripts
-Lua scripts for aimware csgo
+# AIMWARE-scripts
+Lua scripts for AIMWARE hack for Counter Strike: Global Offensive
