@@ -1,5 +1,5 @@
-local Kill_String = 'Tapped by AIMWARE';
-local Death_String = 'nice luck';
+local Kill_String = 'Tapped by Shaxzyware.cc';
+local Death_String = 'Nice baim lul';
 
 function CHAT_KillSay( Event )
 
