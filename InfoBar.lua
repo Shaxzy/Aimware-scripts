@@ -1,7 +1,7 @@
 ---------------------------------
 --name: skeet-like bar
 --author: duxe (yaboi69)
---author: hridayhs (for fixing it)
+--author: hridayhs and Shaxzy (for fixing it)
 --for aimware community
 ---------------------------------
 
@@ -31,7 +31,7 @@ end
 
 
 local kills  = {}
-local deaths = {}
+local deaths = {} 
 
 local function KillDeathCount(event)
 
@@ -43,15 +43,15 @@ local function KillDeathCount(event)
 		kills = {}
 		deaths = {}
 	end
-
+ 
 	if event:GetName( ) == "player_death" then
 		if INDEX_Attacker == local_player then
 			kills[#kills + 1] = {};
-		end
+		end 
 		
 		if (INDEX_Victim == local_player) then
 			deaths[#deaths + 1] = {};
-		end
+		end 
 
 	end
 end
