@@ -2,7 +2,7 @@
 --name: skeet-like bar
 --author: duxe (yaboi69)
 --author: hridayhs and Shaxzy (for fixing it)
---for aimware community
+--for aimware community & github
 ---------------------------------
 
 function gradient(x1, y1, x2, y2, left)
