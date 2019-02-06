@@ -1,4 +1,4 @@
--- Grenade timers by Nyanpasu! (- Luiz)
+-- Grenade timers by Shaxzy
 
 local updatetick = 0;
 local grenades = {};
@@ -78,7 +78,7 @@ end
 end
 end
 
--- Grenade timers by Nyanpasu! (- Luiz)
+-- Grenade timers by Shaxzy
 
 client.AllowListener("round_start");
 client.AllowListener("inferno_expire");
